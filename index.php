@@ -57,7 +57,7 @@
             </div>
         </div>        
         <div class="contents text-right">
-          <h1 class="wow fadeInRight" data-wow-duration="1000ms" data-wow-delay="300ms">Halo Desa - Material UI Inspired Bootstrap Template</h1>
+          <h1 class="wow fadeInRight" data-wow-duration="1000ms" data-wow-delay="300ms">Halo Desa - Aplikasi Pelaporan dan Pengaduan Kelurahan</h1>
           <p class="wow fadeInRight" data-wow-duration="1000ms" data-wow-delay="400ms">Material Design Inspired HTML5 Bootstrap Template for Business and App</p>
           <a href="#why" class="btn btn-lg btn-primary wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="400ms">Download</a>
           <a href="#features" class="btn btn-lg btn-border wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="500ms">Learn More</a>
@@ -773,8 +773,8 @@
           <div class="col-md-12">
             <p class="copyright-text">
              © Pluto 2015 All right reserved. Designed and Developed by 
-              <a href="http://graygrids.com/">
-                GrayGrids
+              <a href="#">
+                Hallo Desa
               </a>
             </p>
           </div>
